@@ -12,7 +12,6 @@
   - [scNanoATAC-seq: a long-read single-cell assay to simultaneously detect chromatin accessibility and genetic variants, Fuchou Tang](#scnanoatac-seq-a-long-read-single-cell-assay-to-simultaneously-detect-chromatin-accessibility-and-genetic-variants-fuchou-tang)
   - [Population-scale nanopore sequencing to further understand the genetics of Alzheimer’s disease and related dementias, Kimberley Billingsley](#population-scale-nanopore-sequencing-to-further-understand-the-genetics-of-alzheimers-disease-and-related-dementias-kimberley-billingsley)
   - [Data Analysis Tool: variant analysis](#data-analysis-tool-variant-analysis)
-- [- 'Paired' signifie ici avec des échantillons de tumeurs et des échantillons contrôles.](#--paired-signifie-ici-avec-des-chantillons-de-tumeurs-et-des-chantillons-contrles)
   - [Galapagos Genetic Barcode: a model for island economic resilience during the COVID-19 pandemic, Jaime Chaves](#galapagos-genetic-barcode-a-model-for-island-economic-resilience-during-the-covid-19-pandemic-jaime-chaves)
   - [The future of clinical genomics](#the-future-of-clinical-genomics)
 - [workshop: an introduction to machine learning](#workshop-an-introduction-to-machine-learning)
